@@ -2,7 +2,7 @@
 This project is responsive page.
 
 ##  Description
-
+It is simple porfolio page with responsive design
 
 ## Parts of my Project
 
