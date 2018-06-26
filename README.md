@@ -6,9 +6,11 @@ It is simple porfolio page with responsive design
 
 ## Parts of my Project
 
-+ intial look
-
 <img src="myimage.png" width=200px>
+
+<img src="image1.png">
+
+<img src ="image2.png">
 
 ## Author
 
